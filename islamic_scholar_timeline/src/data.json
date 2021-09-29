@@ -1,0 +1,637 @@
+﻿{
+    "Results": [
+        {
+            "Name": "Abu Hanifa",
+            "Born": "80",
+            "Died": "150",
+            "Fiqh": "Hanafi",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Malik",
+            "Born": "93",
+            "Died": "179",
+            "Fiqh": "Maliki",
+            "Origin": "Saudi"
+        },
+        {
+            "Name": "Al Shafi'i",
+            "Born": "150",
+            "Died": "204",
+            "Fiqh": "Shafi",
+            "Origin": "Palestina"
+        },
+        {
+            "Name": "Ahmed ibn Hanbal",
+            "Born": "164",
+            "Died": "241",
+            "Fiqh": "Hanbali",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Al-Bukhari",
+            "Born": "194",
+            "Died": "256",
+            "Origin": "Uzbekistan"
+        },
+        {
+            "Name": "Muslim",
+            "Born": "206",
+            "Died": "261",
+            "Fiqh": "Shafi",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Abu Dawud",
+            "Born": "202",
+            "Died": "275",
+            "Fiqh": "Hanbali",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Tirmidhi",
+            "Born": "209",
+            "Died": "279",
+            "Fiqh": "Shafi",
+            "Origin": "Uzbekistan"
+        },
+        {
+            "Name": "Al-Nasa'i",
+            "Born": "214",
+            "Died": "303",
+            "Fiqh": "Shafi",
+            "Origin": "Turkmenistan"
+        },
+        {
+            "Name": "Ibn Majah",
+            "Born": "209",
+            "Died": "273",
+            "Fiqh": "Hanbali",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al Layth ibn Sa3d",
+            "Born": "94",
+            "Died": "175",
+            "Fiqh": "Own madhab",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Yahya ibn Ma'in",
+            "Born": "158",
+            "Died": "233",
+            "Fiqh": "Hanafi",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Qadi abu Yusuf",
+            "Born": "113",
+            "Died": "182",
+            "Fiqh": "Hanafi",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Abdullah ibn al Mubarak",
+            "Born": "118",
+            "Died": "189",
+            "Fiqh": "Hanafi",
+            "Origin": "Turkmenistan"
+        },
+        {
+            "Name": "Mohammed Al Shaybani",
+            "Born": "131",
+            "Died": "189",
+            "Fiqh": "Hanafi",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Al-Tabari",
+            "Born": "224",
+            "Died": "310",
+            "Fiqh": "Own madhab",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Ibn Khuzayma",
+            "Born": "223",
+            "Died": "311",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Athari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Muzani",
+            "Born": "175",
+            "Died": "264",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Athari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Al-Tahawi",
+            "Born": "239",
+            "Died": "321",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Athari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Abu bakr al Khallal",
+            "Born": "234",
+            "Died": "311",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Abu al Hassan al-Ash'ari",
+            "Born": "260",
+            "Died": "324",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Abu Mansur al-Maturidi",
+            "Born": "238",
+            "Died": "333",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Origin": "Uzbekistan"
+        },
+        {
+            "Name": "Al Samarqandi",
+            "Born": "245",
+            "Died": "342",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Origin": "Uzbekistan"
+        },
+        {
+            "Name": "Abu bakr al-Baqillani",
+            "Born": "338",
+            "Died": "403",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Ibn 'abd el bar",
+            "Born": "368",
+            "Died": "463",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Athari",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Ibn Hazm",
+            "Born": "384",
+            "Died": "456",
+            "Fiqh": "Zahiri",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Qadi 'yyad",
+            "Born": "373",
+            "Died": "476",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Abu Bakr ibn al-Tartushi",
+            "Born": "451",
+            "Died": "520",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Abu bakr ibn al-Arabi",
+            "Born": "468",
+            "Died": "543",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Ibn Furak",
+            "Born": "330",
+            "Died": "406",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Sarakhsi",
+            "Born": "399",
+            "Died": "483",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al Hakim al-Nishapuri",
+            "Born": "231",
+            "Died": "402",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al Mawardi",
+            "Born": "362",
+            "Died": "449",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Al-Daraqutni",
+            "Born": "306",
+            "Died": "385",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Athari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Al Khatib al-Baghdadi",
+            "Born": "392",
+            "Died": "463",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Abu Ishaq al-Isfrayani",
+            "Born": "337",
+            "Died": "463",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Qushayri",
+            "Born": "376",
+            "Died": "465",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Abu Bakr al-Bayhaqi",
+            "Born": "384",
+            "Died": "458",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "ABu Ishaq al-Shirazi",
+            "Born": "393",
+            "Died": "476",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Juwayni",
+            "Born": "419",
+            "Died": "478",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Ghazali",
+            "Born": "448",
+            "Died": "500",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Ibn 'aqil",
+            "Born": "431",
+            "Died": "513",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Ashari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Abdul Qadir Gillani",
+            "Born": "470",
+            "Died": "561",
+            "Fiqh": "Shafi'i / Hanbali",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Ibn el Jawzi",
+            "Born": "510",
+            "Died": "597",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Ibn Qudamah",
+            "Born": "541",
+            "Died": "620",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Origin": "Palestina"
+        },
+        {
+            "Name": "Fakhr el din al-Razi",
+            "Born": "544",
+            "Died": "605",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Nawawi",
+            "Born": "631",
+            "Died": "676",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Al-Qurtubi",
+            "Born": "611",
+            "Died": "671",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Rumi",
+            "Born": "604",
+            "Died": "673",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-'ez ibn Abdel-Salam",
+            "Born": "577",
+            "Died": "660",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Salah el-din el-Ayoubi",
+            "Born": "532",
+            "Died": "589",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Nizaam al-Mulk",
+            "Born": "408",
+            "Died": "485",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Ali ibn el-Athir",
+            "Born": "555",
+            "Died": "630",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Turkey"
+        },
+        {
+            "Name": "Ibn Hajar al-'asqalani",
+            "Born": "773",
+            "Died": "852",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Ibn Rajab",
+            "Born": "736",
+            "Died": "795",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Ibn 'ata Allah al-Sakandari",
+            "Born": "658",
+            "Died": "709",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Al-Mizzi",
+            "Born": "654",
+            "Died": "742",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Ibn 'asaker",
+            "Born": "499",
+            "Died": "571",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Al Kindi",
+            "Born": "185",
+            "Died": "250",
+            "Aqeedah": "Philosopher",
+            "Origin": "Iraq"
+        },
+        {
+            "Name": "Sibaweyh",
+            "Born": "143",
+            "Died": "180",
+            "Aqeedah": "Grammerian",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Al-Farabi",
+            "Born": "259",
+            "Died": "339",
+            "Aqeedah": "Philosopher",
+            "Origin": "Afghanistan"
+        },
+        {
+            "Name": "Ibn Sina",
+            "Born": "369",
+            "Died": "428",
+            "Aqeedah": "Philosopher",
+            "Origin": "Uzbekistan"
+        },
+        {
+            "Name": "Ibn Rushd",
+            "Born": "520",
+            "Died": "595",
+            "Aqeedah": "Philosopher",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Ibn Taymiyyah",
+            "Born": "661",
+            "Died": "728",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Ibn el-Qayyim al-Jawziya",
+            "Born": "691",
+            "Died": "751",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Al-Dhahabi",
+            "Born": "673",
+            "Died": "748",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Athari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Taqi el-din al-Subki",
+            "Born": "683",
+            "Died": "756",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Taj el-din al-Subki",
+            "Born": "727",
+            "Died": "771",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Ibn Khathir",
+            "Born": "701",
+            "Died": "774",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Al-Suyuti",
+            "Born": "849",
+            "Died": "911",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Ibn al-Nafis",
+            "Born": "607",
+            "Died": "687",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Abu Al-Hassan al-Shadhili",
+            "Born": "592",
+            "Died": "656",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Marocco"
+        },
+        {
+            "Name": "Al-Shatibi",
+            "Born": "720",
+            "Died": "790",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Andalus"
+        },
+        {
+            "Name": "Ibn Khaldun",
+            "Born": "732",
+            "Died": "808",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ashari",
+            "Origin": "Tunisia"
+        },
+        {
+            "Name": "Ibn al-Jazari",
+            "Born": "751",
+            "Died": "833",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Nur el-Din al-Haythami",
+            "Born": "735",
+            "Died": "807",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Al-Taftazani",
+            "Born": "722",
+            "Died": "792",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Origin": "Iran"
+        },
+        {
+            "Name": "Ibrahim al-Halabi",
+            "Born": "864",
+            "Died": "956",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Origin": "Syrie"
+        },
+        {
+            "Name": "Al Sakhawi",
+            "Born": "831",
+            "Died": "902",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Ibn Hajar al-Haythami",
+            "Born": "909",
+            "Died": "974",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Al-Bahuti",
+            "Born": "1001",
+            "Died": "1051",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Origin": "Egypt"
+        },
+        {
+            "Name": "Al-Manawi",
+            "Born": "952",
+            "Died": "1031",
+            "Fiqh": "Shafi",
+            "Aqeedah": "Ashari",
+            "Origin": "Egypt"
+        }
+    ]
+}
