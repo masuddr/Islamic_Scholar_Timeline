@@ -86,7 +86,7 @@ function drawChart() {
   dataTable.addColumn({ type: "string", id: "Name" });
   dataTable.addColumn({ type: "date", id: "Start" });
   dataTable.addColumn({ type: "date", id: "End" });
-  dataTable.addColumn({ type: "string", id: "Style" });
+  // dataTable.addColumn({ type: "string", id: "Color" });
   let scholarsLength = scholarData.length;
   for (let i = 0; i < scholarsLength; i++) {
     dataTable.addRows([
@@ -95,7 +95,6 @@ function drawChart() {
         `${scholarData[i]["Name"]}`,
         new Date(parseInt(scholarData[i]["Born"]), 1, 1),
         new Date(parseInt(scholarData[i]["Died"]), 1, 1),
-        "#D3D3D3",
       ],
     ]);
     dataTable.setRowProperty(
@@ -109,9 +108,10 @@ function drawChart() {
     width: 1400 * 1.9,
     height: scholarsLength * 15,
     backgroundColor: "#D3D3D3",
-    color: {
-      pattern: colorList,
+    series: {
+      color: colorList,
     },
+    
   };
   chart.draw(dataTable, options);
 }
