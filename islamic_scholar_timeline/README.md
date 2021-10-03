@@ -1,1 +1,0 @@
-# Islamic_Scholar_Timeline

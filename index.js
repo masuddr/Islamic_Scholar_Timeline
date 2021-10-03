@@ -42,24 +42,24 @@ function getColor(scholar) {
   let color = "grey";
 
   if (typeof scholar["Fiqh"] == "undefined") {
-    color = "grey";
+    color = "#dda0dd";
     return color;
   } else {
     switch (scholar["Fiqh"]) {
       case "Hanafi":
-        color = "red";
+        color = "#ff7f7f";
         break;
       case "Maliki":
-        color = "blue";
+        color = "#33a1de";
         break;
       case "Shafi'i":
-        color = "green";
+        color = "#8aff8a";
         break;
       case "Hanbali":
-        color = "grey";
+        color = "#aeaeae";
         break;
       default:
-        color = "yellow";
+        color = "#ffff8A";
         break;
     }
   }
@@ -74,7 +74,8 @@ scholarData.forEach((element) => {
   colorList.push(getColor(element));
 });
 
-console.log(colorList);
+
+
 google.charts.load("current", { packages: ["timeline"] });
 google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
@@ -84,15 +85,16 @@ function drawChart() {
 
   dataTable.addColumn({ type: "string", id: "Term" });
   dataTable.addColumn({ type: "string", id: "Name" });
+  dataTable.addColumn({ type: 'string', id: 'style', role: 'style' });
   dataTable.addColumn({ type: "date", id: "Start" });
   dataTable.addColumn({ type: "date", id: "End" });
-  // dataTable.addColumn({ type: "string", id: "Color" });
   let scholarsLength = scholarData.length;
   for (let i = 0; i < scholarsLength; i++) {
     dataTable.addRows([
       [
         getCategory(scholarData[i]),
         `${scholarData[i]["Name"]}`,
+        getColor(scholarData[i]),
         new Date(parseInt(scholarData[i]["Born"]), 1, 1),
         new Date(parseInt(scholarData[i]["Died"]), 1, 1),
       ],
@@ -105,13 +107,20 @@ function drawChart() {
   }
   var options = {
     title: "Islamic Scholar Timeline",
-    width: 1400 * 1.9,
+    width: 1400 * 3.1,
     height: scholarsLength * 15,
-    backgroundColor: "#D3D3D3",
-    series: {
-      color: colorList,
-    },
+    // colors: colorList,
+    timeline: { rowLabelStyle: {fontName: 'Helvetica', fontSize: 24, color: '#603913' },
+    barLabelStyle: { fontName: 'Comic Sans', fontSize: 16, bold : true,  } 
+
+
+  }
+
     
   };
   chart.draw(dataTable, options);
+
+
+  
+
 }
