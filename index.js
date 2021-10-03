@@ -38,9 +38,43 @@ function getCategory(scholar) {
   return output;
 }
 
-let scholarData = json["data"];
-console.log(scholarData);
+function getColor(scholar) {
+  let color = "grey";
 
+  if (typeof scholar["Fiqh"] == "undefined") {
+    color = "grey";
+    return color;
+  } else {
+    switch (scholar["Fiqh"]) {
+      case "Hanafi":
+        color = "red";
+        break;
+      case "Maliki":
+        color = "blue";
+        break;
+      case "Shafi'i":
+        color = "green";
+        break;
+      case "Hanbali":
+        color = "grey";
+        break;
+      default:
+        color = "yellow";
+        break;
+    }
+  }
+
+  return color;
+}
+
+let scholarData = json["data"];
+
+let colorList = [];
+scholarData.forEach((element) => {
+  colorList.push(getColor(element));
+});
+
+console.log(colorList);
 google.charts.load("current", { packages: ["timeline"] });
 google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
@@ -52,6 +86,7 @@ function drawChart() {
   dataTable.addColumn({ type: "string", id: "Name" });
   dataTable.addColumn({ type: "date", id: "Start" });
   dataTable.addColumn({ type: "date", id: "End" });
+  dataTable.addColumn({ type: "string", id: "Style" });
   let scholarsLength = scholarData.length;
   for (let i = 0; i < scholarsLength; i++) {
     dataTable.addRows([
@@ -60,14 +95,23 @@ function drawChart() {
         `${scholarData[i]["Name"]}`,
         new Date(parseInt(scholarData[i]["Born"]), 1, 1),
         new Date(parseInt(scholarData[i]["Died"]), 1, 1),
+        "#D3D3D3",
       ],
     ]);
+    dataTable.setRowProperty(
+      i,
+      "style",
+      "background-color:green !important;background-image:none"
+    );
   }
   var options = {
     title: "Islamic Scholar Timeline",
     width: 1400 * 1.9,
     height: scholarsLength * 15,
-    backgroundColor: "light-grey",
+    backgroundColor: "#D3D3D3",
+    color: {
+      pattern: colorList,
+    },
   };
   chart.draw(dataTable, options);
 }
