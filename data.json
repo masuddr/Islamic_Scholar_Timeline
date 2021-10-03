@@ -32,6 +32,7 @@
             "Name": "Al-Bukhari",
             "Born": "194",
             "Died": "256",
+            "Fiqh": "Own madhab",
             "Land": "Uzbekistan"
         },
         {
@@ -473,7 +474,6 @@
             "Name": "Al Kindi",
             "Born": "185",
             "Died": "250",
-            "Fiqh": "Philosopher",
             "Aqeedah": "Philosopher",
             "Land": "Iraq"
         },
@@ -481,7 +481,6 @@
             "Name": "Sibaweyh",
             "Born": "143",
             "Died": "180",
-            "Fiqh": "Philosopher",
             "Aqeedah": "Grammerian",
             "Land": "Iran"
         },
@@ -489,7 +488,6 @@
             "Name": "Al-Farabi",
             "Born": "259",
             "Died": "339",
-            "Fiqh": "Philosopher",
             "Aqeedah": "Philosopher",
             "Land": "Afghanistan"
         },
@@ -497,7 +495,6 @@
             "Name": "Ibn Sina",
             "Born": "369",
             "Died": "428",
-            "Fiqh": "Philosopher",
             "Aqeedah": "Philosopher",
             "Land": "Uzbekistan"
         },
@@ -505,7 +502,6 @@
             "Name": "Ibn Rushd",
             "Born": "520",
             "Died": "595",
-            "Fiqh": "Philosopher",
             "Aqeedah": "Philosopher",
             "Land": "Andalus"
         },
@@ -676,6 +672,190 @@
             "Fiqh": "Hanafi",
             "Aqeedah": "Maturidi",
             "Land": "Afghanistan"
+        },
+        {
+            "Name": "Wakeeh ibn al-Jarrah",
+            "Born": "127",
+            "Died": "197",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Athari",
+            "Land": "Iraq"
+        },
+        {
+            "Name": "Abu al-Yusr al Bazdawi",
+            "Born": "421",
+            "Died": "493",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Land": "Uzbekistan"
+        },
+        {
+            "Name": "Isa ibn Aban",
+            "Born": "167",
+            "Died": "221",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Athari",
+            "Land": "Iraq"
+        },
+        {
+            "Name": "Ibn ABi Zayd al-Qayrawani",
+            "Born": "310",
+            "Died": "386",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ash'ari",
+            "Land": "Tunisia"
+        },
+        {
+            "Name": "Abu al-Mu'in al-Nasafi",
+            "Born": "418",
+            "Died": "508",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Athari",
+            "Land": "Uzbekistan"
+        },
+        {
+            "Name": "Abu'l-Husayn al-Basri",
+            "Born": "376",
+            "Died": "436",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Land": "Iraq"
+        },
+        {
+            "Name": "Siraj al-Din al-Ushi",
+            "Born": "515",
+            "Died": "575",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Land": "Kyrgyzstan"
+        },
+        {
+            "Name": "Nur al-Din al-Sabuni",
+            "Born": "520",
+            "Died": "580",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Land": "Uzbekistan"
+        },
+        {
+            "Name": "Jamal al-Din al-Ghaznawi",
+            "Born": "533",
+            "Died": "593",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Land": "Afghanistan"
+        },
+        {
+            "Name": "Burhan al-Din al-Marghinani",
+            "Born": "530",
+            "Died": "593",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Land": "Uzbekistan"
+        },
+        {
+            "Name": "Abu Tawwama",
+            "Born": "630",
+            "Died": "700",
+            "Fiqh": "Hanafi",
+            "Aqeedah": "Maturidi",
+            "Land": "Uzbekistan"
+        },
+        {
+            "Name": "Sahnun",
+            "Born": "160",
+            "Died": "240",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Athari",
+            "Land": "Tunisia"
+        },
+        {
+            "Name": "Ibn Tashfin",
+            "Born": "453",
+            "Died": "500",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ash'ari",
+            "Land": "Marocco"
+        },
+        {
+            "Name": "Shihab al-Din al-Qarafi",
+            "Born": "625",
+            "Died": "684",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ash'ari",
+            "Land": "Algeria"
+        },
+        {
+            "Name": "Yahya  ibn Yahya al-Laythi",
+            "Born": "780",
+            "Died": "848",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ash'ari",
+            "Land": "Andalus"
+        },
+        {
+            "Name": "Abdal-Rahman al-Tha'alibi",
+            "Born": "820",
+            "Died": "884",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ash'ari",
+            "Land": "Algeria"
+        },
+        {
+            "Name": "Al Barbahari",
+            "Born": "253",
+            "Died": "329",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Land": "Iraq"
+        },
+        {
+            "Name": "Ibn Manda",
+            "Born": "310",
+            "Died": "395",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Land": "Iran"
+        },
+        {
+            "Name": "Ibn Battah al-Ukbari",
+            "Born": "304",
+            "Died": "387",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Land": "Iraq"
+        },
+        {
+            "Name": "Al Qadi abu Ya'la",
+            "Born": "380",
+            "Died": "458",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Land": "Iraq"
+        },
+        {
+            "Name": "Ibn al Hajib",
+            "Born": "570",
+            "Died": "646",
+            "Fiqh": "Maliki",
+            "Aqeedah": "Ash'ari",
+            "Land": "Egypt"
+        },
+        {
+            "Name": "Ibn Hamdan",
+            "Born": "603",
+            "Died": "694",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Land": "Turkey"
+        },
+        {
+            "Name": "Ibn Muflih",
+            "Born": "710",
+            "Died": "763",
+            "Fiqh": "Hanbali",
+            "Aqeedah": "Athari",
+            "Land": "Palestina"
         }
     ]
 }

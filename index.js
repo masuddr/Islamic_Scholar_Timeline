@@ -74,8 +74,6 @@ scholarData.forEach((element) => {
   colorList.push(getColor(element));
 });
 
-
-
 google.charts.load("current", { packages: ["timeline"] });
 google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
@@ -85,14 +83,14 @@ function drawChart() {
 
   dataTable.addColumn({ type: "string", id: "Term" });
   dataTable.addColumn({ type: "string", id: "Name" });
-  dataTable.addColumn({ type: 'string', id: 'style', role: 'style' });
+  dataTable.addColumn({ type: "string", id: "style", role: "style" });
   dataTable.addColumn({ type: "date", id: "Start" });
   dataTable.addColumn({ type: "date", id: "End" });
   let scholarsLength = scholarData.length;
   for (let i = 0; i < scholarsLength; i++) {
     dataTable.addRows([
       [
-        getCategory(scholarData[i]),
+        "Islamic Scholars",
         `${scholarData[i]["Name"]}`,
         getColor(scholarData[i]),
         new Date(parseInt(scholarData[i]["Born"]), 1, 1),
@@ -110,17 +108,10 @@ function drawChart() {
     width: 1400 * 3.1,
     height: scholarsLength * 15,
     // colors: colorList,
-    timeline: { rowLabelStyle: {fontName: 'Helvetica', fontSize: 24, color: '#603913' },
-    barLabelStyle: { fontName: 'Comic Sans', fontSize: 16, bold : true,  } 
-
-
-  }
-
-    
+    timeline: {
+      rowLabelStyle: { fontName: "Helvetica", fontSize: 24, color: "#603913" },
+      barLabelStyle: { fontName: "Comic Sans", fontSize: 16, bold: true },
+    },
   };
   chart.draw(dataTable, options);
-
-
-  
-
 }
