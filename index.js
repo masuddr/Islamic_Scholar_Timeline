@@ -40,20 +40,20 @@ function getCategory(scholar) {
 
 function getColor(scholar) {
   let color = "grey";
-
+S
   if (typeof scholar["Fiqh"] == "undefined") {
     color = "#dda0dd";
     return color;
   } else {
     switch (scholar["Fiqh"]) {
       case "Hanafi":
-        color = "#ff7f7f";
+        color = "	#F08080";
         break;
       case "Maliki":
-        color = "#33a1de";
+        color = "	#4169E1";
         break;
       case "Shafi'i":
-        color = "#8aff8a";
+        color = "	#90EE90";
         break;
       case "Hanbali":
         color = "#aeaeae";
