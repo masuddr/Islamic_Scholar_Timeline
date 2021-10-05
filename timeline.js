@@ -40,7 +40,6 @@ function getCategory(scholar) {
 
 function getColor(scholar) {
   let color = "grey";
-S
   if (typeof scholar["Fiqh"] == "undefined") {
     color = "#dda0dd";
     return color;
