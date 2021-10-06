@@ -1,6 +1,7 @@
 import React from "react";
 import "./Header.css";
 import { Link } from "react-router-dom";
+// import SearchIcon from "@material-ui/icons/Search";
 import {
   AppBar,
   Toolbar,
@@ -49,6 +50,7 @@ function Header() {
           </Link>
           <Link to="/timeline" className={classes.link}>
             Timeline
+
           </Link>
           <Link to="/contact" className={classes.link}>
             Contact
