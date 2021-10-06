@@ -47,8 +47,8 @@ function Header() {
           <Link to="/" className={classes.link}>
             Home
           </Link>
-          <Link to="/about" className={classes.link}>
-            About
+          <Link to="/timeline" className={classes.link}>
+            Timeline
           </Link>
           <Link to="/contact" className={classes.link}>
             Contact

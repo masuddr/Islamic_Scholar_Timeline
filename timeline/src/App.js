@@ -2,7 +2,7 @@
 import './App.css';
 import Header from './components/Header';
 import Home from './components/Home';
-import About from './components/About';
+import Timeline from './components/Timeline';
 import Contact from './components/Contact';
 import {
   BrowserRouter as Router,
@@ -17,7 +17,7 @@ function App() {
     <Header/>
     <Switch>
         <Route exact path="/" component={Home} />
-        <Route path="/about" component={About} />
+        <Route path="/timeline" component={Timeline} />
         <Route path="/contact" component={Contact} />
       </Switch>
  </Router>
