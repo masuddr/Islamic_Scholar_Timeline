@@ -69,7 +69,7 @@ const useStyles = makeStyles((theme) => ({
     cursor: "pointer",
   },
   bar: {
-    background: "#3CB371",
+    background: "#dec05f",
     position: 'fixed',
   },
   link: {
