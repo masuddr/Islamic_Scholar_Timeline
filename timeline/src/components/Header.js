@@ -29,6 +29,10 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
     },
   }));
 
+  function refreshPage() {
+    window.location.reload(false);
+  }
+
 const SearchIconWrapper = styled('div')(({ theme }) => ({
     padding: theme.spacing(0, 2),
     height: '100%',
@@ -58,7 +62,7 @@ const SearchIconWrapper = styled('div')(({ theme }) => ({
 const useStyles = makeStyles((theme) => ({
   navlinks: {
     marginLeft: theme.spacing(10),
-    display: "flex",
+    display: "flex"
   },
   logo: {
     flexGrow: "1",
@@ -66,6 +70,7 @@ const useStyles = makeStyles((theme) => ({
   },
   bar: {
     background: "#3CB371",
+    position: 'fixed',
   },
   link: {
     textDecoration: "none",
@@ -102,7 +107,7 @@ function Header() {
           <Link to="/" className={classes.link}>
             Home
           </Link>
-          <Link to="/timeline" className={classes.link}>
+          <Link to="/timeline" onClick={() => {window.location.href="/timeline"}} className={classes.link}>
             Timeline
 
           </Link>
