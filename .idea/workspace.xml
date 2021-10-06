@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7eeec52-d418-472a-8c79-4d7be6b934cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/.idea/islamic_scholar_timeline.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/islamic_scholar_timeline/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633199211619</updated>
       <workItem from="1633199213456" duration="30000" />
+      <workItem from="1633517571208" duration="428000" />
     </task>
     <servers />
   </component>
