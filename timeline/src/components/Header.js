@@ -1,6 +1,7 @@
 import React from "react";
 import "./Header.css";
 import { Link } from "react-router-dom";
+// import SearchIcon from "@material-ui/icons/Search";
 import {
   AppBar,
   Toolbar,
@@ -47,6 +48,12 @@ function Header() {
           <Link to="/" className={classes.link}>
             Home
           </Link>
+
+          {/* <div className="header__search">
+            <input className="header__searchInput" type="text" />
+        
+            <SearchIcon className="header__searchIcon" />
+          </div> */}
           <Link to="/about" className={classes.link}>
             About
           </Link>
