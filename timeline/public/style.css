@@ -1,5 +1,6 @@
-
-
-.content{
-    padding-left: 20px;
+.content {
+  padding-left: 20px;
+  display: flex;
+  justify-content: center;
+  position: relative;
 }
