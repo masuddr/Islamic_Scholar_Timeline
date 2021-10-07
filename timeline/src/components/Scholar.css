@@ -13,7 +13,7 @@
   box-shadow: 0.5px 1px 1px 1px #4c4949;
 
   z-index: 1;
-  /* border-radius: 20px; */
+  border-radius: 2px;
 }
 
 .scholar__info {
@@ -34,13 +34,14 @@
 }
 
 .scholar:hover {
-  transform: scale(1.01) !important;
+  transform: scale(1.03) !important;
   box-shadow: 3px 5px 3px 3px #4c4949;
   cursor: pointer;
+  /* transition: all .1s ease-in-out; */
 }
 
 .scholar__name {
-  font-size: 25px;
+  font-size: 24px;
   font-family: "Papyrus";
   font-weight: 100;
 }
