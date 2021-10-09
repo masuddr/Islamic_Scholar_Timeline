@@ -13,7 +13,7 @@
   box-shadow: 0.5px 1px 1px 1px #4c4949;
 
   z-index: 1;
-  border-radius: 2px;
+  border-radius: 5px;
 }
 
 .scholar__info {
@@ -24,13 +24,15 @@
   width: 100%;
   padding: 2px;
   padding-top: 10px;
+
 }
 
 .scholar > img {
   max-height: 300px;
   width: 100%;
+  
   object-fit: contain;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .scholar:hover {
@@ -43,5 +45,5 @@
 .scholar__name {
   font-size: 24px;
   font-family: "Papyrus";
-  font-weight: 100;
+  font-weight: bold;
 }

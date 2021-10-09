@@ -19,7 +19,7 @@ function Home() {
 
         <div className="home__row">
           <Scholar
-            name="Abu Bakr Al-Siddiq"
+            name="Abu Bakr al-Siddiq"
             image="https://upload.wikimedia.org/wikipedia/commons/b/b6/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82.gif"
           />
           <Scholar
