@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Islamic_Scholar_Timeline/static/css/main.8bc72aaa.chunk.css",
-    "main.js": "/Islamic_Scholar_Timeline/static/js/main.e1496132.chunk.js",
-    "main.js.map": "/Islamic_Scholar_Timeline/static/js/main.e1496132.chunk.js.map",
+    "main.js": "/Islamic_Scholar_Timeline/static/js/main.d2a303a0.chunk.js",
+    "main.js.map": "/Islamic_Scholar_Timeline/static/js/main.d2a303a0.chunk.js.map",
     "runtime-main.js": "/Islamic_Scholar_Timeline/static/js/runtime-main.874fa05b.js",
     "runtime-main.js.map": "/Islamic_Scholar_Timeline/static/js/runtime-main.874fa05b.js.map",
-    "static/js/2.9475e5da.chunk.js": "/Islamic_Scholar_Timeline/static/js/2.9475e5da.chunk.js",
-    "static/js/2.9475e5da.chunk.js.map": "/Islamic_Scholar_Timeline/static/js/2.9475e5da.chunk.js.map",
+    "static/js/2.1b910003.chunk.js": "/Islamic_Scholar_Timeline/static/js/2.1b910003.chunk.js",
+    "static/js/2.1b910003.chunk.js.map": "/Islamic_Scholar_Timeline/static/js/2.1b910003.chunk.js.map",
     "static/js/3.b82b8231.chunk.js": "/Islamic_Scholar_Timeline/static/js/3.b82b8231.chunk.js",
     "static/js/3.b82b8231.chunk.js.map": "/Islamic_Scholar_Timeline/static/js/3.b82b8231.chunk.js.map",
     "index.html": "/Islamic_Scholar_Timeline/index.html",
     "static/css/main.8bc72aaa.chunk.css.map": "/Islamic_Scholar_Timeline/static/css/main.8bc72aaa.chunk.css.map",
-    "static/js/2.9475e5da.chunk.js.LICENSE.txt": "/Islamic_Scholar_Timeline/static/js/2.9475e5da.chunk.js.LICENSE.txt"
+    "static/js/2.1b910003.chunk.js.LICENSE.txt": "/Islamic_Scholar_Timeline/static/js/2.1b910003.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.874fa05b.js",
-    "static/js/2.9475e5da.chunk.js",
+    "static/js/2.1b910003.chunk.js",
     "static/css/main.8bc72aaa.chunk.css",
-    "static/js/main.e1496132.chunk.js"
+    "static/js/main.d2a303a0.chunk.js"
   ]
 }
